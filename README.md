@@ -1,2 +1,2 @@
 # Jekcore
-Simple blogging engine like jekkyl.
+Simple blogging engine like jekyll.
